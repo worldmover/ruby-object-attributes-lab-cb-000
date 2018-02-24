@@ -3,6 +3,6 @@ class Dog
     @name=new_name
   end
   def name
-    puts @name
+    returns @name
   end
 end
